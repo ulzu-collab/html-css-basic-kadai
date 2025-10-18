@@ -1,0 +1,9 @@
+/* pはhtmlの<p>に適応するという意味のセレクタ */
+p{
+    /* 色を赤に変更 */
+    color: red;
+    /* フォントサイズを48pxに変更 */
+    font-size: 48px;
+    /* 右寄せに変更 */
+    text-align: right;
+}

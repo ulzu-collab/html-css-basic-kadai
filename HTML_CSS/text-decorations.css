@@ -1,0 +1,43 @@
+.decoration {
+  /* font-size: 48px; */
+  /* color: red */
+  /* color: #ff0000; */
+    /* color: rgb(255, 0, 0); */
+    /* font-weight: bold; */
+    /* font-family: "游ゴシック体", "yuGothic", "游ゴシック", "yu Gothic";
+    font-style: italic; */
+    /* line-height: 4.5; */
+    /* letter-spacing: 1.5em; */
+    /* text-decoration: underline; */
+    /* text-decoration: line-through; */
+
+     /* borderプロパティの値にsolidを指定すると、実線になります */
+    /* border: solid 3px red; */
+
+      /* borderプロパティの値にdottedを指定すると、点線になります */
+  /* border: dotted 3px red; */
+
+    /* borderプロパティの値にdashedを指定すると、破線になります */
+  /* border: dashed 3px red; */
+
+    /* borderプロパティの値にdoubleを指定すると、二重線になります */
+  /* border: double 5px red; */
+
+    /* border-top: solid 3px red;
+  border-bottom: dotted 3px blue; */
+
+    /* background-color: red; */
+
+    /* 最初の1pxから、影の右方向の長さ、影の下方向の長さ、影のボケ具合、影の色、の順に記述する。
+ */
+    /* text-shadow: 1px 1px 2px gray; */
+
+     /* text-align: center; */
+
+     
+
+}
+
+/* .text-bold {
+  font-weight: bold;
+} */
